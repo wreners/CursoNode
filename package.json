@@ -1,0 +1,16 @@
+{
+  "name": "node-bases",
+  "version": "0.0.1",
+  "main": "app9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wrener Robles",
+  "license": "MIT",
+  "description": "En una tabla de multiplicar con archivo de texto",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "pdfkit": "^0.15.0",
+    "yargs": "^17.7.2"
+  }
+}
