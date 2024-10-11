@@ -1,0 +1,6 @@
+# Ignorar archivos de texto
+*.txt
+*.pdf
+
+# Ignorar carpeta node_modules
+node_modules/
